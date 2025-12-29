@@ -8,3 +8,4 @@
 
 
     console.log("This is my first project")
+    console.log("Hi")
